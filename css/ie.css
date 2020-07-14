@@ -1,0 +1,20 @@
+.div_team .effect .mask {
+	border-width:0px;
+}
+.div_team  .view .mask, .div_team  .view .content {
+	text-align:center;
+}
+
+.div_team  .effect a.info {
+	position:relative;
+	top:125px;
+}
+
+
+/* PORTFOLIO */
+.og-grid .effect2 a.info2 {
+	left:0px;
+	top:90px;
+	z-index:2;
+}
+/* PORTFOLIO ENDS */
